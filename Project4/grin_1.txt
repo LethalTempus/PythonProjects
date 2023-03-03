@@ -1,0 +1,59 @@
+{
+Sentence
+2 Hello [Something]
+1 My favorite objects are [Object] and [Object] and [Object]
+}
+
+
+
+{ 
+Something
+3 [Name]
+1 World
+}
+
+
+{
+Name
+1 [FirstName] [LastName]
+}
+
+
+{
+FirstName
+1 Alex
+1 Haruki
+1 William
+1 John
+1 Anya
+1 Boochi
+1 Aatrox
+1 Victor
+1 Viego
+1 Graves
+1 Ekko
+}
+
+{
+Object
+1 bed
+1 candle
+1 handcuff
+1 rope
+1 blindfold
+1 whip
+}
+ 
+
+{
+LastName
+3
+1 Forger
+1 Santiarul Molach vol Kalah Heigaar
+1 Irelia
+1 Thorton
+1 Murakami
+1 Sharkspeare
+1 Shakespeare
+1 Cena
+}
